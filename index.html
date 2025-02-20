@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gig Finder Demo</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px; }
+    h1 { text-align: center; }
+    form { text-align: center; margin-bottom: 20px; }
+    input { padding: 8px; margin: 5px; }
+    button { padding: 8px 12px; }
+    ul { list-style-type: none; padding: 0; }
+    li { background: white; margin: 10px auto; padding: 15px; max-width: 600px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    .contact-buttons a {
+      display: inline-block;
+      padding: 5px 10px;
+      margin-right: 5px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Find Gigs</h1>
+  <form id="filterForm">
+    Genre: <input type="text" name="genre" placeholder="e.g., Rock">
+    Min Capacity: <input type="number" name="minCapacity" placeholder="e.g., 100">
+    Location: <input type="text" name="location" placeholder="e.g., Chicago">
+    <button type="submit">Search</button>
+  </form>
+  <hr>
+  <ul id="gigsList"></ul>
+
+  <script>
+    document.getElementById('filterForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      const query = new URLSearchParams(formData).toString();
+      const response = await fetch(`http://localhost:3000/api/gigs?${query}`);
+      const gigs = await response.json();
+      const list = document.getElementById('gigsList');
+      list.innerHTML = '';
+      gigs.forEach(gig => {
+        const li = document.createElement('li');
+        li.innerHTML = `
+          <strong>${gig.venue}</strong><br>
+          Capacity: ${gig.capacity}<br>
+          Genres: ${gig.genre.join(', ')}<br>
+          Address: ${gig.address}<br>
+          Phone: ${gig.phone || "N/A"}<br>
+          <div class="contact-buttons">
+            ${gig.email ? `<a href="mailto:${gig.email}">Email</a>` : ""}
+            ${gig.website ? `<a href="${gig.website}" target="_blank">Website</a>` : ""}
+          </div>
+        `;
+        list.appendChild(li);
+      });
+    });
+  </script>
+</body>
+</html>

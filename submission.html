@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Artist EPK Submission</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: white;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+    }
+    form {
+      display: flex;
+      flex-direction: column;
+    }
+    label {
+      margin-top: 10px;
+    }
+    input, select, textarea {
+      padding: 8px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+    button {
+      margin-top: 15px;
+      padding: 10px;
+      border: none;
+      background-color: #28a745;
+      color: white;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Artist EPK Submission</h1>
+    <form id="submissionForm" enctype="multipart/form-data">
+      <label>Band Name (Required):</label>
+      <input type="text" name="bandName" required>
+      
+      <label>Year Formed:</label>
+      <input type="number" name="yearFormed">
+      
+      <label>Genre (Required):</label>
+      <input type="text" name="genre" required>
+      
+      <label>Band Location:</label>
+      <input type="text" name="bandLocation">
+      
+      <label>Upload Hero Banner (JPG only):</label>
+      <input type="file" name="heroBanner" accept=".jpg, .jpeg">
+      
+      <label>Contact First Name (Required):</label>
+      <input type="text" name="contactFirst" required>
+      
+      <label>Contact Last Name:</label>
+      <input type="text" name="contactLast">
+      
+      <label>Contact Email (Required):</label>
+      <input type="email" name="contactEmail" required>
+      
+      <label>Are you touring through the Midwest? (Required):</label>
+      <select name="touring" required>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
+      
+      <label>Most Recent or Upcoming Shows (Required):</label>
+      <textarea name="shows" required></textarea>
+      
+      <label>Instagram Link (Required):</label>
+      <input type="url" name="instagram" required>
+      
+      <label>Twitter Link:</label>
+      <input type="url" name="twitter">
+      
+      <label>Facebook Link:</label>
+      <input type="url" name="facebook">
+      
+      <label>TikTok Link:</label>
+      <input type="url" name="tiktok">
+      
+      <label>Spotify Link:</label>
+      <input type="url" name="spotify">
+      
+      <label>YouTube Link:</label>
+      <input type="url" name="youtube">
+      
+      <label>Website or Linktree Link:</label>
+      <input type="url" name="website">
+      
+      <label>Anything else we should know?</label>
+      <textarea name="additionalInfo"></textarea>
+      
+      <button type="submit">Submit EPK</button>
+    </form>
+  </div>
+  
+  <script>
+    document.getElementById('submissionForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const formData = new FormData(e.target);
+      const response = await fetch('http://localhost:3000/api/bands', {
+        method: 'POST',
+        body: formData
+      });
+      const result = await response.json();
+      alert(result.message + "\nEPK saved at: " + result.submission.epkPath);
+      console.log(result.submission);
+    });
+  </script>
+</body>
+</html>

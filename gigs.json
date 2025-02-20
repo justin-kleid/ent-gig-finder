@@ -1,0 +1,1138 @@
+[
+  {
+    "venue": "Cobra Lounge",
+    "capacity": 300,
+    "genre": [
+      "Alternative",
+      "Rock",
+      "Metal"
+    ],
+    "address": "235 N ASHLAND AVE, CHICAGO, IL",
+    "phone": "(312) 226-6300",
+    "email": "",
+    "website": "https://cobralounge.com/submit/"
+  },
+  {
+    "venue": "The Butlington",
+    "capacity": 100,
+    "genre": [
+      "Folk",
+      "Punk",
+      "Alternative",
+      "R&B"
+    ],
+    "address": "3425 W. Fullerton Ave. Chicago, IL 60647",
+    "phone": "",
+    "email": "booking@theburlingtonbar.com",
+    "website": "https://www.theburlingtonbar.com/contact-us"
+  },
+  {
+    "venue": "Sleeping Village",
+    "capacity": 300,
+    "genre": [
+      "R&B",
+      "Soul",
+      "Rock",
+      "Metal",
+      "Alternative"
+    ],
+    "address": "3734 W. Belmont Avenue Chicago, IL 60618",
+    "phone": "(773) 654-3971",
+    "email": "Booking@sleeping-village.com",
+    "website": "https://sleeping-village.com/contact-us/"
+  },
+  {
+    "venue": "Cole's Bar",
+    "capacity": 99,
+    "genre": [
+      "Jazz",
+      "Metal",
+      "Punk",
+      "Indie"
+    ],
+    "address": "2338 N. Milwaukee Avenue, Chicago, IL 60647",
+    "phone": "",
+    "email": "colesbarkerry@gmail.com",
+    "website": "https://colesbarchicago.com/booking-info/"
+  },
+  {
+    "venue": "Martyrs'",
+    "capacity": 320,
+    "genre": [
+      "Acoustic",
+      "Alternative",
+      "Blues",
+      "Folk",
+      "Indie",
+      "Jazz"
+    ],
+    "address": "3855 N. Lincoln Avenue, Chicago, IL 60613",
+    "phone": "(773) 404-9494",
+    "email": "brennan@martyrslive.com",
+    "website": "https://martyrslive.com/contactus#booking"
+  },
+  {
+    "venue": "Bottom Lounge",
+    "capacity": 700,
+    "genre": [
+      "Electonic",
+      "Blues",
+      "Folk",
+      "Indie",
+      "Rock"
+    ],
+    "address": "1375 W. Lake Street, Chicago, IL 60607",
+    "phone": "(312) 666-6775",
+    "email": "kevin@bottomlounge.com",
+    "website": "https://bottomlounge.com/contact/"
+  },
+  {
+    "venue": "Beat Kitchen",
+    "capacity": 275,
+    "genre": [
+      "All"
+    ],
+    "address": "2100 W. Belmont Avenue, Chicago, IL 60618",
+    "phone": "(773) 281-4444",
+    "email": "booking@subt.net",
+    "website": "https://beatkitchen.com/contact/"
+  },
+  {
+    "venue": "Chop Shop",
+    "capacity": 400,
+    "genre": [
+      "All"
+    ],
+    "address": "2033 W. North Avenue, Chicago, IL 60647",
+    "phone": "773-537-4440",
+    "email": "brian@chicagochopshop.com",
+    "website": "https://www.chopshopchi.com/contact/index.html"
+  },
+  {
+    "venue": "Liar's Club",
+    "capacity": 100,
+    "genre": [
+      "Metal",
+      "Punk",
+      "Rock"
+    ],
+    "address": "1665 W. Fullerton Avenue, Chicago, IL 60614",
+    "phone": "",
+    "email": "",
+    "website": "https://www.liarsclubstore.com/"
+  },
+  {
+    "venue": "Constellation",
+    "capacity": 150,
+    "genre": [
+      "Country",
+      "Electronic",
+      "Rock",
+      "Jazz"
+    ],
+    "address": "3111 N. Western Avenue, Chicago, IL 60618",
+    "phone": "",
+    "email": "http://instagram.com/constellationchicago",
+    "website": "https://constellation-chicago.com/"
+  },
+  {
+    "venue": "The Promontory",
+    "capacity": 500,
+    "genre": [
+      "All"
+    ],
+    "address": "5311 S. Lake Park Avenue, Chicago, IL 60615",
+    "phone": "(312) 801-2100",
+    "email": "info@promontorychicago.com",
+    "website": "https://www.promontorychicago.com/"
+  },
+  {
+    "venue": "FitzGerald's",
+    "capacity": 400,
+    "genre": [
+      "Folk",
+      "Blues",
+      "Jazz",
+      "Rock"
+    ],
+    "address": "6615 W. Roosevelt Road, Berwyn, IL 60402",
+    "phone": "(708) 788-2118",
+    "email": "booking@fitzgeraldsnightclub.com",
+    "website": "https://www.fitzgeraldsnightclub.com/contact/"
+  },
+  {
+    "venue": "Elastic Arts",
+    "capacity": 120,
+    "genre": [
+      "Experimental",
+      "Rock",
+      "Lo-fi"
+    ],
+    "address": "3429 W. Diversey Avenue #208, Chicago, IL 60647",
+    "phone": "(773) 772-3616",
+    "email": "https://elasticarts.org/contact",
+    "website": "https://elasticarts.org/"
+  },
+  {
+    "venue": "Hungry Brain",
+    "capacity": 180,
+    "genre": [
+      "All"
+    ],
+    "address": "2319 W. Belmont Avenue, Chicago, IL 60618",
+    "phone": "",
+    "email": "alex@atpluto.com",
+    "website": ""
+  },
+  {
+    "venue": "Reed's Local",
+    "capacity": 200,
+    "genre": [
+      "Garage",
+      "Rock",
+      "Alternative"
+    ],
+    "address": "3017 W. Belmont Avenue, Chicago, IL 60618",
+    "phone": "(872) 806-0520",
+    "email": "reedslocaltap@gmail.com",
+    "website": "https://reedslocal.com/contact/"
+  },
+  {
+    "venue": "",
+    "capacity": 0,
+    "genre": [
+      ""
+    ],
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": ""
+  },
+  {
+    "venue": "Venue",
+    "capacity": null,
+    "genre": [
+      "Genre"
+    ],
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website"
+  },
+  {
+    "venue": "Alhambra Palace",
+    "capacity": 1200,
+    "genre": [
+      "Middle Eastern & world music (with belly dancing) (CHICAGO",
+      "GET READY TO BE BLOWN AWAY! Join us ... - Instagram)"
+    ],
+    "address": "1240 W Randolph St, Chicago, IL 60607",
+    "phone": "(312) 666-9555",
+    "email": "",
+    "website": "alhambrapalacechicago.com"
+  },
+  {
+    "venue": "Andy’s Jazz Club",
+    "capacity": 144,
+    "genre": [
+      "Jazz"
+    ],
+    "address": "11 E. Hubbard St, Chicago, IL 60611",
+    "phone": "(312) 642-6805",
+    "email": "info@andysjazzclub.com",
+    "website": "https://andysjazzclub.com/"
+  },
+  {
+    "venue": "Avondale Music Hall",
+    "capacity": 350,
+    "genre": [
+      "All genres (mid-size concert venue) (Avondale Music Hall - UrbanMatter)"
+    ],
+    "address": "3336 N Milwaukee Ave, Chicago, IL 60641",
+    "phone": "(708) 669-7380",
+    "email": "",
+    "website": "(FB: AvondaleMusicHall)"
+  },
+  {
+    "venue": "Beauty Bar",
+    "capacity": 350,
+    "genre": [
+      "Dance parties (80s",
+      "hip-hop",
+      "soul",
+      "etc.) (Beauty Bar - Chicago - 16 on Center)"
+    ],
+    "address": "1444 W Chicago Ave, Chicago, IL 60642",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bizbash.com/venue-directory/bars-nightclubs-lounges/bars-lounges/venue/13420263/beauty-bar-chicago#:~:text=Beauty%20Bar%20Chicago%20,com%2C%20Phone%3A%203122268828"
+  },
+  {
+    "venue": "Beverly Arts Center",
+    "capacity": 400,
+    "genre": [
+      "Variety (concerts",
+      "theater",
+      "dance) (Beverly Arts Center - Chicago Gay Men's Chorus)"
+    ],
+    "address": "2407 W 111th St, Chicago, IL 60655",
+    "phone": "(773) 445-3838",
+    "email": "frontdeskstaff@beverlyartcenter.org (Contact Us - Beverly Arts Center)",
+    "website": "thebeverlyartscenter.com"
+  },
+  {
+    "venue": "Blue Chicago",
+    "capacity": 100,
+    "genre": [
+      "Blues"
+    ],
+    "address": "536 N. Clark St, Chicago, IL 60654",
+    "phone": "(312) 661-0100",
+    "email": "",
+    "website": "https://bluechicago.com/"
+  },
+  {
+    "venue": "Bottom Lounge",
+    "capacity": 700,
+    "genre": [
+      "Rock",
+      "alternative"
+    ],
+    "address": "1375 W. Lake St, Chicago, IL 60607",
+    "phone": "(312) 666-6775",
+    "email": "",
+    "website": "https://bottomlounge.com/"
+  },
+  {
+    "venue": "Bub City",
+    "capacity": 250,
+    "genre": [
+      "Live country music (bar/restaurant) (Bub City Chicago)"
+    ],
+    "address": "435 N Clark St, Chicago, IL 60654",
+    "phone": "(312) 610-4200",
+    "email": "",
+    "website": "bub-city.com/chicago"
+  },
+  {
+    "venue": "Buddy Guy’s Legends",
+    "capacity": 500,
+    "genre": [
+      "Blues"
+    ],
+    "address": "700 S. Wabash Ave, Chicago, IL 60605",
+    "phone": "(312) 427-1190",
+    "email": "randy@buddyguys.com",
+    "website": "https://buddyguy.com/"
+  },
+  {
+    "venue": "Café Mustache",
+    "capacity": 100,
+    "genre": [
+      "All genres (local indie",
+      "jazz",
+      "etc.) (Cafe Mustache",
+      "Chicago",
+      "IL - Booking Information & Music Venue ...)"
+    ],
+    "address": "2313 N Milwaukee Ave, Chicago, IL 60647",
+    "phone": "(773) 687-9063",
+    "email": "stachebooking@gmail.com (Cafe Mustache (@cafe_mustache) • Instagram photos and videos)",
+    "website": "(FB: CafeMustache)"
+  },
+  {
+    "venue": "Carol’s Pub",
+    "capacity": 200,
+    "genre": [
+      "Honky-tonk & country (live music nightly) (Carol's Pub - Live Music",
+      "Drinks & Legendary Chicago Dive Bar)"
+    ],
+    "address": "4659 N Clark St, Chicago, IL 60640",
+    "phone": "(773) 754-8000",
+    "email": "carolspub@gmail.com (contact - Carol's Pub - Live Entertainment & Upcoming Shows)",
+    "website": "carolspub.com"
+  },
+  {
+    "venue": "Chicago Cultural Center",
+    "capacity": 700,
+    "genre": [
+      "Various (classical",
+      "jazz",
+      "blues)"
+    ],
+    "address": "78 E. Washington St, Chicago, IL 60602",
+    "phone": "(312) 744-3316",
+    "email": "culture@ci.chi.il.us",
+    "website": "https://chicago.gov/culturalcenter"
+  },
+  {
+    "venue": "Chicago Theatre",
+    "capacity": null,
+    "genre": [
+      "Various"
+    ],
+    "address": "175 N. State St., Chicago, IL 60601",
+    "phone": "(312) 462-6300",
+    "email": "",
+    "website": "https://www.chicagotheatre.com/"
+  },
+  {
+    "venue": "Chop Shop / 1st Ward",
+    "capacity": 450,
+    "genre": [
+      "All genres (concerts & events space) (Chop Shop / 1st Ward",
+      "Chicago",
+      "IL - Booking Information & Music ...)"
+    ],
+    "address": "2033 W North Ave, Chicago, IL 60647",
+    "phone": "(773) 537-4440",
+    "email": "",
+    "website": "chopshopchi.com"
+  },
+  {
+    "venue": "City Winery Chicago",
+    "capacity": 300,
+    "genre": [
+      "Various"
+    ],
+    "address": "1200 W. Randolph St, Chicago, IL 60607",
+    "phone": "(312) 733-9463",
+    "email": "chicago@citywinery.com",
+    "website": "https://citywinery.com/chicago"
+  },
+  {
+    "venue": "Clara",
+    "capacity": 119,
+    "genre": [
+      "Clara - Clara Chicago"
+    ],
+    "address": "2027 W North Ave, Chicago, IL 60647",
+    "phone": "(773) 661-2182",
+    "email": "",
+    "website": "events@clarachicago.com ([Space rental"
+  },
+  {
+    "venue": "Cobra Lounge",
+    "capacity": 300,
+    "genre": [
+      "Rock",
+      "punk & metal (emerging acts) (The 90's Rock Revival is Alive and Well: Dazy & Lifeguard at Cobra ...) (Cobra Lounge: Bars in Cook County",
+      "Illinois (IL))"
+    ],
+    "address": "235 N Ashland Ave, Chicago, IL 60607",
+    "phone": "(312) 226-6300",
+    "email": "",
+    "website": "cobralounge.com"
+  },
+  {
+    "venue": "Cole’s Bar",
+    "capacity": 99,
+    "genre": [
+      "All genres (free local music & open mics) (Cole's Bar",
+      "Chicago",
+      "IL - Booking Information & Music Venue Reviews)"
+    ],
+    "address": "2338 N Milwaukee Ave, Chicago, IL 60647",
+    "phone": "",
+    "email": "",
+    "website": "https://colesbarchicago.com/contact-and-faqs/#:~:text=FAQ%20,free%20every%20Wednesday%20Night"
+  },
+  {
+    "venue": "Concord Music Hall",
+    "capacity": 700,
+    "genre": [
+      "Hip-hop",
+      "EDM",
+      "indie"
+    ],
+    "address": "2047 N. Milwaukee Ave, Chicago, IL 60647",
+    "phone": "(773) 417-0216",
+    "email": "",
+    "website": "https://concordmusichall.com/"
+  },
+  {
+    "venue": "Concord Music Hall",
+    "capacity": 1500,
+    "genre": [
+      "Multi-genre (hip-hop",
+      "rock",
+      "EDM",
+      "etc.)"
+    ],
+    "address": "2047 N Milwaukee Ave, Chicago, IL 60647",
+    "phone": "(773) 417-0216",
+    "email": "",
+    "website": "https://concordmusichall.com/contact/#:~:text=2047%20N%20Milwaukee%20Ave%20Chicago%2C,please%20visit%20our%20info%20page"
+  },
+  {
+    "venue": "Constellation",
+    "capacity": 250,
+    "genre": [
+      "Avant-jazz",
+      "improvised & experimental (About - Constellation Chicago)"
+    ],
+    "address": "3111 N Western Ave, Chicago, IL 60618",
+    "phone": "",
+    "email": "info@constellation-chicago.com",
+    "website": "constellation-chicago.com"
+  },
+  {
+    "venue": "Copernicus Center",
+    "capacity": 1800,
+    "genre": [
+      "Concerts & cultural events (varied genres) (About the Copernicus Center & Copernicus Foundation)"
+    ],
+    "address": "5216 W Lawrence Ave, Chicago, IL 60630",
+    "phone": "(773) 777-8898",
+    "email": "info@copernicuscenter.org (Copernicus Center - BizBash)",
+    "website": "copernicuscenter.org"
+  },
+  {
+    "venue": "Cubby Bear",
+    "capacity": 1000,
+    "genre": [
+      "Rock",
+      "pop & sports-event bands (Cubby Bear - Chicago",
+      "IL - Party Venue - Eventective)"
+    ],
+    "address": "1059 W Addison St, Chicago, IL 60613",
+    "phone": "(773) 327-1662",
+    "email": "info@cubbybear.com (IN-HOUSE SPECIALS - The Cubby Bear Chicago)",
+    "website": "cubbybear.com"
+  },
+  {
+    "venue": "Davenport’s Piano Bar & Cabaret",
+    "capacity": 100,
+    "genre": [
+      "Cabaret",
+      "piano standards & vocalists (Davenport's Piano Bar (@davenportspianobar) - Instagram)"
+    ],
+    "address": "1383 N Milwaukee Ave, Chicago, IL 60622",
+    "phone": "(773) 278-1830",
+    "email": "",
+    "website": "https://www.davenportspianobar.com/contact#:~:text=773,in%20the%20Wicker%20Park%20area"
+  },
+  {
+    "venue": "Dorian’s Through The Record Shop",
+    "capacity": 100,
+    "genre": [
+      "Funk",
+      "soul",
+      "jazz & DJ sets (cocktail lounge) ([dorian's"
+    ],
+    "address": "1939 W North Ave, Chicago, IL 60622",
+    "phone": "(773) 687-9824",
+    "email": "",
+    "website": "(not public)"
+  },
+  {
+    "venue": "Elastic Arts",
+    "capacity": 80,
+    "genre": [
+      "Free jazz",
+      "experimental & art music (About - Constellation Chicago) (Elastic Arts (@elasticarts) • Instagram photos and videos)"
+    ],
+    "address": "3429 W Diversey Ave #208, Chicago, IL 60647",
+    "phone": "(773) 772-3616",
+    "email": "info@elasticarts.org",
+    "website": "elasticarts.org"
+  },
+  {
+    "venue": "Emporium Arcade Bar (Wicker Park)",
+    "capacity": 300,
+    "genre": [
+      "Indie rock",
+      "DJ and pop-up shows (arcade bar)"
+    ],
+    "address": "1366 N Milwaukee Ave, Chicago, IL 60622",
+    "phone": "(773) 697-7922",
+    "email": "",
+    "website": "emporiumchicago.com"
+  },
+  {
+    "venue": "Empty Bottle",
+    "capacity": 400,
+    "genre": [
+      "Indie rock"
+    ],
+    "address": "1035 N. Western Ave, Chicago, IL 60622",
+    "phone": "(773) 276-3600",
+    "email": "info@emptybottle.com",
+    "website": "https://emptybottle.com/"
+  },
+  {
+    "venue": "Epiphany Center for the Arts",
+    "capacity": 900,
+    "genre": [
+      "All genres"
+    ],
+    "address": "201 S. Ashland Ave, Chicago, IL 60607",
+    "phone": "(312) 421-4600",
+    "email": "",
+    "website": "https://epiphanychi.com/"
+  },
+  {
+    "venue": "Epiphany Center for the Arts",
+    "capacity": 200,
+    "genre": [
+      "Jazz",
+      "blues",
+      "soul & art performances"
+    ],
+    "address": "201 S Ashland Ave, Chicago, IL 60607",
+    "phone": "(312) 421-4600",
+    "email": "info@epiphanychi.com",
+    "website": "epiphanychi.com"
+  },
+  {
+    "venue": "Fulton Street Collective",
+    "capacity": 100,
+    "genre": [
+      "Jazz",
+      "improvisational & visual art events"
+    ],
+    "address": "1821 W Hubbard St # 207, Chicago, IL 60622",
+    "phone": "(773) 852-2481",
+    "email": "info@fultonstreetcollective.com",
+    "website": "fultonstreetcollective.com"
+  },
+  {
+    "venue": "Gallery Cabaret",
+    "capacity": 100,
+    "genre": [
+      "Indie rock",
+      "open mics & comedy ([Gallery Cabaret"
+    ],
+    "address": "2020 N Oakley Ave, Chicago, IL 60647",
+    "phone": "(773) 489-5471",
+    "email": "",
+    "website": "info@gallerycabaret.com (CONTACT - Gallery Cabaret)"
+  },
+  {
+    "venue": "GMan Tavern",
+    "capacity": 100,
+    "genre": [
+      "Rock",
+      "punk & DJ nights (intimate bar venue)"
+    ],
+    "address": "3740 N Clark St, Chicago, IL 60613",
+    "phone": "(773) 549-2050",
+    "email": "",
+    "website": "gmantavern.com"
+  },
+  {
+    "venue": "Green Mill Cocktail Lounge",
+    "capacity": 150,
+    "genre": [
+      "Jazz"
+    ],
+    "address": "4802 N. Broadway Ave, Chicago, IL 60640",
+    "phone": "(773) 878-5552",
+    "email": "greenmill@comcast.net",
+    "website": "https://greenmilljazz.com/"
+  },
+  {
+    "venue": "Harold Washington Cultural Center",
+    "capacity": 1000,
+    "genre": [
+      "R&B",
+      "gospel",
+      "theater & community events"
+    ],
+    "address": "4701 S Martin Luther King Jr. Dr, Chicago, IL 60653",
+    "phone": "(773) 373-1900",
+    "email": "",
+    "website": "hwccchicago.org"
+  },
+  {
+    "venue": "Honky Tonk BBQ",
+    "capacity": 100,
+    "genre": [
+      "Rockabilly",
+      "blues & country (restaurant venue)"
+    ],
+    "address": "1800 S Racine Ave, Chicago, IL 60608",
+    "phone": "(312) 226-7427",
+    "email": "",
+    "website": "honkytonkbbqchicago.com"
+  },
+  {
+    "venue": "Hungry Brain",
+    "capacity": 75,
+    "genre": [
+      "Jazz",
+      "experimental & eclectic acts"
+    ],
+    "address": "2319 W Belmont Ave, Chicago, IL 60618",
+    "phone": "(773) 709-1401",
+    "email": "info@hungrybrainmusic.com",
+    "website": "(FB: HungryBrainChicago)"
+  },
+  {
+    "venue": "Irish American Heritage Center",
+    "capacity": 658,
+    "genre": [
+      "The Chicago Neighborhood Development ...](https://map.lisc-cnda.org/2003/driehaus/beverly-arts-center/#:~:text=cnda",
+      "A%20dance))"
+    ],
+    "address": "4626 N Knox Ave, Chicago, IL 60630",
+    "phone": "(773) 282-7035",
+    "email": "",
+    "website": "info@irishahc.org"
+  },
+  {
+    "venue": "Jazz Showcase",
+    "capacity": 170,
+    "genre": [
+      "Jazz"
+    ],
+    "address": "806 S. Plymouth Ct, Chicago, IL 60605",
+    "phone": "(312) 360-0234",
+    "email": "jazzshowcase@jazzshowcase.com",
+    "website": "https://jazzshowcase.com/"
+  },
+  {
+    "venue": "Joe’s on Weed Street",
+    "capacity": 700,
+    "genre": [
+      "Country",
+      "rock & sports-event shows"
+    ],
+    "address": "940 W Weed St, Chicago, IL 60642",
+    "phone": "(312) 337-3486",
+    "email": "info@joesbar.com",
+    "website": "joesbar.com"
+  },
+  {
+    "venue": "Judson & Moore Distillery",
+    "capacity": 250,
+    "genre": [
+      "Americana",
+      "folk & indie (in distillery venue)"
+    ],
+    "address": "3057 N Rockwell St, Chicago, IL 60618",
+    "phone": "(773) 661-2485",
+    "email": "events@judsonandmoore.com",
+    "website": "judsonandmoore.com"
+  },
+  {
+    "venue": "Kingston Mines",
+    "capacity": 500,
+    "genre": [
+      "Blues"
+    ],
+    "address": "2548 N. Halsted St, Chicago, IL 60614",
+    "phone": "(773) 544-5442",
+    "email": "",
+    "website": "https://kingstonmines.com/"
+  },
+  {
+    "venue": "Le Piano",
+    "capacity": 50,
+    "genre": [
+      "Jazz piano",
+      "vocalists & cabaret ([ABOUT"
+    ],
+    "address": "6970 N Glenwood Ave, Chicago, IL 60626",
+    "phone": "(773) 312-7288",
+    "email": "",
+    "website": "info@lepianochicago.com"
+  },
+  {
+    "venue": "Lemon",
+    "capacity": 75,
+    "genre": [
+      "Jazz",
+      "blues & acoustic (cocktail bar venue) (Restaurant/bar with live acoustic music in Chicago - Reddit)"
+    ],
+    "address": "1600 W Grand Ave, Chicago, IL 60622",
+    "phone": "(312) 802-4412",
+    "email": "",
+    "website": "lemonchicago.net"
+  },
+  {
+    "venue": "Liar’s Club",
+    "capacity": 100,
+    "genre": [
+      "Punk",
+      "metal & rock (late-night dive)"
+    ],
+    "address": "1665 W Fullerton Ave, Chicago, IL 60614",
+    "phone": "(773) 665-1110",
+    "email": "",
+    "website": "(FB: LiarsClubChicago)"
+  },
+  {
+    "venue": "Lincoln Hall",
+    "capacity": 507,
+    "genre": [
+      "Rock",
+      "pop"
+    ],
+    "address": "2424 N. Lincoln Ave, Chicago, IL 60614",
+    "phone": "(773) 525-2501",
+    "email": "",
+    "website": "https://lh-st.com/lincoln-hall/"
+  },
+  {
+    "venue": "LiveWire Lounge",
+    "capacity": 100,
+    "genre": [
+      "Metal",
+      "punk & alternative shows"
+    ],
+    "address": "3394 N Milwaukee Ave, Chicago, IL 60641",
+    "phone": "(773) 756-5363",
+    "email": "livewirelounge@gmail.com",
+    "website": "livewireloungechicago.com"
+  },
+  {
+    "venue": "Logan Square Auditorium",
+    "capacity": 750,
+    "genre": [
+      "Indie rock",
+      "Latin & special events"
+    ],
+    "address": "2539 N Kedzie Blvd, Chicago, IL 60647",
+    "phone": "(773) 252-6179",
+    "email": "info@logansquareauditorium.com",
+    "website": "logansquareauditorium.com"
+  },
+  {
+    "venue": "Martyrs’",
+    "capacity": 320,
+    "genre": [
+      "Rock",
+      "folk",
+      "alt-country"
+    ],
+    "address": "3855 N. Lincoln Ave, Chicago, IL 60613",
+    "phone": "(773) 404-9494",
+    "email": "",
+    "website": "https://martyrslive.com/"
+  },
+  {
+    "venue": "Metro",
+    "capacity": 1100,
+    "genre": [
+      "Rock",
+      "punk",
+      "electronic"
+    ],
+    "address": "3730 N. Clark St, Chicago, IL 60613",
+    "phone": "(773) 549-0203",
+    "email": "",
+    "website": "https://metrochicago.com/"
+  },
+  {
+    "venue": "Montrose Saloon",
+    "capacity": 75,
+    "genre": [
+      "Americana",
+      "folk & blues jam nights"
+    ],
+    "address": "2933 W Montrose Ave, Chicago, IL 60618",
+    "phone": "(773) 463-7663",
+    "email": "",
+    "website": "(FB: MontroseSaloon)"
+  },
+  {
+    "venue": "Old Town School of Folk Music",
+    "capacity": 425,
+    "genre": [
+      "Folk",
+      "world & roots music concerts"
+    ],
+    "address": "4544 N Lincoln Ave, Chicago, IL 60625",
+    "phone": "(773) 728-6000",
+    "email": "customerservice@oldtownschool.org",
+    "website": "oldtownschool.org"
+  },
+  {
+    "venue": "Old Town School of Folk Music (Maurer Hall)",
+    "capacity": 425,
+    "genre": [
+      "Folk",
+      "world music"
+    ],
+    "address": "4544 N. Lincoln Ave, Chicago, IL 60625",
+    "phone": "(773) 728-6000",
+    "email": "customerservice@oldtownschool.org",
+    "website": "https://oldtownschool.org/"
+  },
+  {
+    "venue": "Park West",
+    "capacity": 1000,
+    "genre": [
+      "Various"
+    ],
+    "address": "322 W. Armitage Ave, Chicago, IL 60614",
+    "phone": "(773) 929-5959",
+    "email": "",
+    "website": "https://parkwestchicago.com/"
+  },
+  {
+    "venue": "Phyllis’ Musical Inn",
+    "capacity": 75,
+    "genre": [
+      "Local rock",
+      "blues & open jams"
+    ],
+    "address": "1800 W Division St, Chicago, IL 60622",
+    "phone": "(773) 486-9862",
+    "email": "",
+    "website": "(FB: phyllismusicalinn)"
+  },
+  {
+    "venue": "PianoForte Studios",
+    "capacity": 100,
+    "genre": [
+      "Classical & jazz recitals"
+    ],
+    "address": "1335 S Michigan Ave, Chicago, IL 60605",
+    "phone": "(312) 291-0291",
+    "email": "info@pianofortefoundation.org",
+    "website": "pianofortefoundation.org"
+  },
+  {
+    "venue": "Reed’s Local",
+    "capacity": 100,
+    "genre": [
+      "Rock",
+      "punk & DJ nights (neighborhood bar)"
+    ],
+    "address": "3017 W Belmont Ave, Chicago, IL 60618",
+    "phone": "(773) 818-7323",
+    "email": "",
+    "website": "reedslocal.com"
+  },
+  {
+    "venue": "Reggies (Rock Club & Music Joint)",
+    "capacity": 400,
+    "genre": [
+      "Rock",
+      "metal",
+      "punk"
+    ],
+    "address": "2105 S. State St, Chicago, IL 60616",
+    "phone": "(312) 949-0120",
+    "email": "info@reggieslive.com",
+    "website": "https://reggieslive.com/"
+  },
+  {
+    "venue": "Rosa’s Lounge",
+    "capacity": 100,
+    "genre": [
+      "Blues"
+    ],
+    "address": "3420 W. Armitage Ave, Chicago, IL 60647",
+    "phone": "(773) 342-0452",
+    "email": "tony@rosaslounge.com",
+    "website": "https://rosaslounge.com/"
+  },
+  {
+    "venue": "Schubas Tavern",
+    "capacity": 165,
+    "genre": [
+      "Indie rock",
+      "folk",
+      "alt-country"
+    ],
+    "address": "3159 N. Southport Ave, Chicago, IL 60657",
+    "phone": "(773) 525-2508",
+    "email": "confirm@schubas.com",
+    "website": "https://lh-st.com/schubas/"
+  },
+  {
+    "venue": "Simon’s Tavern",
+    "capacity": 75,
+    "genre": [
+      "Acoustic folk",
+      "blues & jazz jams (Simon's Tavern",
+      "Upcoming Events in Chicago on Do312)"
+    ],
+    "address": "5210 N Clark St, Chicago, IL 60640",
+    "phone": "(773) 878-0894",
+    "email": "",
+    "website": "(FB: simonstavern)"
+  },
+  {
+    "venue": "Smartbar",
+    "capacity": 400,
+    "genre": [
+      "Electronic (house/techno DJs) ([Smartbar"
+    ],
+    "address": "3730 N Clark St, Chicago, IL 60613",
+    "phone": "",
+    "email": "",
+    "website": "https://meetinillinois.com/explore/listing/smart-bar/#:~:text=Smart%20Bar%20,What%27s"
+  },
+  {
+    "venue": "Stan Mansion",
+    "capacity": 300,
+    "genre": [
+      "Variety (live bands for private events)"
+    ],
+    "address": "2408 N Kedzie Blvd, Chicago, IL 60647",
+    "phone": "(773) 276-0099",
+    "email": "info@stanmansion.com",
+    "website": "stanmansion.com"
+  },
+  {
+    "venue": "Studebaker Theater",
+    "capacity": 600,
+    "genre": [
+      "Theater",
+      "classical & live concerts"
+    ],
+    "address": "410 S Michigan Ave, Chicago, IL 60605",
+    "phone": "(312) 753-3210",
+    "email": "info@studebakertheater.com",
+    "website": "studebakertheater.com"
+  },
+  {
+    "venue": "Subterranean",
+    "capacity": 400,
+    "genre": [
+      "Rock",
+      "hip-hop",
+      "DJs"
+    ],
+    "address": "2011 W. North Ave, Chicago, IL 60647",
+    "phone": "(773) 278-6600",
+    "email": "info@subt.net",
+    "website": "https://subt.net/"
+  },
+  {
+    "venue": "Thalia Hall",
+    "capacity": 800,
+    "genre": [
+      "Rock",
+      "indie",
+      "multi-genre"
+    ],
+    "address": "1807 S. Allport St, Chicago, IL 60608",
+    "phone": "(312) 526-3851",
+    "email": "info@thaliahallchicago.com",
+    "website": "https://thaliahallchicago.com/"
+  },
+  {
+    "venue": "The Hideout",
+    "capacity": 150,
+    "genre": [
+      "Eclectic (indie",
+      "folk)"
+    ],
+    "address": "1354 W. Wabansia Ave, Chicago, IL 60642",
+    "phone": "(773) 227-4433",
+    "email": "info@hideoutchicago.com",
+    "website": "https://hideoutchicago.com/"
+  },
+  {
+    "venue": "The Promontory",
+    "capacity": 600,
+    "genre": [
+      "R&B",
+      "soul",
+      "hip-hop"
+    ],
+    "address": "5311 S. Lake Park Ave W, Chicago, IL 60615",
+    "phone": "(312) 801-2100",
+    "email": "info@promontorychicago.com",
+    "website": "https://promontorychicago.com/"
+  },
+  {
+    "venue": "The Quarry Event Center",
+    "capacity": 100,
+    "genre": [
+      "Jazz",
+      "blues & soul (community venue)"
+    ],
+    "address": "2423 E 75th St, Chicago, IL 60649",
+    "phone": "(312) 259-1143",
+    "email": "thequarrychi@gmail.com",
+    "website": "thequarrychi.com"
+  },
+  {
+    "venue": "The Vic Theatre",
+    "capacity": null,
+    "genre": [
+      "Various"
+    ],
+    "address": "3145 N. Sheffield Ave., Chicago, IL 60657",
+    "phone": "(773) 472-0449",
+    "email": "",
+    "website": "https://www.victheatre.com/"
+  },
+  {
+    "venue": "The Whistler",
+    "capacity": 74,
+    "genre": [
+      "Live jazz",
+      "soul & DJ sets (cocktail bar)"
+    ],
+    "address": "2421 N Milwaukee Ave, Chicago, IL 60647",
+    "phone": "(773) 227-3530",
+    "email": "info@whistlerchicago.com",
+    "website": "whistlerchicago.com"
+  },
+  {
+    "venue": "Uncommon Ground (Edgewater)",
+    "capacity": 75,
+    "genre": [
+      "Acoustic",
+      "folk & jazz artists"
+    ],
+    "address": "1401 W Devon Ave, Chicago, IL 60660",
+    "phone": "(773) 465-9801",
+    "email": "info@uncommonground.com",
+    "website": "uncommonground.com"
+  },
+  {
+    "venue": "Uncommon Ground (Lakeview)",
+    "capacity": 75,
+    "genre": [
+      "Acoustic",
+      "folk & singer-songwriter"
+    ],
+    "address": "3800 N Clark St, Chicago, IL 60613",
+    "phone": "(773) 929-3680",
+    "email": "info@uncommonground.com",
+    "website": "uncommonground.com"
+  },
+  {
+    "venue": "Underground Lounge",
+    "capacity": 100,
+    "genre": [
+      "Rock",
+      "punk & indie (basement bar venue)"
+    ],
+    "address": "952 W Newport Ave, Chicago, IL 60657",
+    "phone": "(773) 327-2739",
+    "email": "ulchicago@sbcglobal.net (Underground Lounge (@underground_lounge_chi) - Instagram)",
+    "website": "(FB: undergroundloungechi)"
+  },
+  {
+    "venue": "Winter’s Jazz Club",
+    "capacity": 100,
+    "genre": [
+      "Jazz (Great American Songbook",
+      "vocal jazz)"
+    ],
+    "address": "465 N McClurg Ct, Chicago, IL 60611",
+    "phone": "(312) 344-1270",
+    "email": "info@wintersjazzclub.com",
+    "website": "wintersjazzclub.com"
+  },
+  {
+    "venue": "Zhou B Art Center",
+    "capacity": 200,
+    "genre": [
+      "Art exhibits & live music (various genres)"
+    ],
+    "address": "1029 W 35th St, Chicago, IL 60609",
+    "phone": "(773) 523-0200",
+    "email": "info@zhoubartcenter.com",
+    "website": "zhoubartcenter.com"
+  }
+]
